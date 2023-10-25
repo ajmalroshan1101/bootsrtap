@@ -1,0 +1,12 @@
+#pic1{
+    background-image: url(../../../assets/food.png);
+    background-size: cover;
+}
+#pic2{
+    background-image: url(../../../assets/art2.avif);
+    background-size: cover;
+}
+#pic3{
+    background-image: url(../../../assets/gameing.avif);
+    background-size: cover;
+}
